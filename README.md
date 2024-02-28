@@ -127,5 +127,6 @@ Any Logged in user can like to any Article
 - Already liked Message
 ```
 User can like only once to any specific article.
+```
 ![already](https://github.com/irfanmominmt/coding-test-php/assets/112695126/8d7fbaac-6635-439b-b5a7-565058896eb7)
 
